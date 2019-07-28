@@ -154,7 +154,7 @@
 
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCXM2zxbvNqBq_zE2yGfxj8nLmwBvF9Bqs&libraries=drawing&callback=initMap"
+<script src="https://maps.googleapis.com/maps/api/js?key=ADD_YOUR_GOOGLE_API_KEY&libraries=drawing&callback=initMap"
 async defer>
 </script>
 
